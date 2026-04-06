@@ -275,7 +275,7 @@ body{
     }
     .toggle {
         display: block;
-        padding: 0px 5px;
+        padding: 0px 10px;
 
     }
     .m-menu{position: absolute; top: 30px;}
@@ -429,7 +429,9 @@ body{
             scroll-behavior: smooth;
     }
 .tabs::-webkit-scrollbar { display: none; }
-
+.logo img{
+    margin-left:10px;
+}
 .tab-btn {
     flex: 0 0 auto;
     padding: 10px 18px;
