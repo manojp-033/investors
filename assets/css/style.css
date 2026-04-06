@@ -420,6 +420,7 @@ body{
     display: flex;
     overflow-x: auto;
     scroll-behavior: smooth;
+    overflow:hidden;
 }
     .tabs1{
         overflow: hidden;
@@ -428,6 +429,7 @@ body{
             display: flex;
             overflow-x: auto;
             scroll-behavior: smooth;
+        overflow:hidden;
     }
 .tabs::-webkit-scrollbar { display: none; }
 
